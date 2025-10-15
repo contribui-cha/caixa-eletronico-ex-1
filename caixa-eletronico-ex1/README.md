@@ -142,15 +142,5 @@ Este projeto é ideal para:
 - ✅ Criar navegação entre componentes
 - ✅ Aplicar TypeScript em projetos React
 
-## 🔄 Possíveis Melhorias Futuras
-
-- Adicionar roteamento com React Router
-- Implementar autenticação real com backend
-- Adicionar testes unitários e de integração
-- Melhorar a interface com animações
-- Adicionar mais operações (transferências, pagamentos, etc.)
-- Implementar tema escuro
-
----
 
 **Desenvolvido como exercício educacional de React + TypeScript**
